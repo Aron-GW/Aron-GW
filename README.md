@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yoo%20Geonwoo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=마술%20좋아하는%20개발자%20🪄&descAlignY=58&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=You%20Geonwoo%20|%20Aron&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=20" />
 </div>
 
 <br>
