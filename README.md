@@ -6,8 +6,8 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub?style=flat-square&logo=github&logoColor=white)](https://github.com/Aron-GW)
-[![Email](https://img.shields.io/badge/Email-aron.gwyou1127%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aron.gwyou1127@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aron-GW)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aron.gwyou1127@gmail.com)
 
 </div>
 
