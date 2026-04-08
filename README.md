@@ -37,8 +37,8 @@
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Aron-GW&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aron-GW&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -49,9 +49,8 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://YOUR_BLOG)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aron-GW)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aron.gwyou1127@gmail.com)
 
 </div>
 
