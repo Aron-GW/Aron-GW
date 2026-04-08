@@ -1,86 +1,49 @@
-[README.md](https://github.com/user-attachments/files/26570257/README.md)[Up<!-- Header -->
-<div align="center">
+# 👋 안녕하세요, 유건우(Geonwoo Yu)입니다!
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║           안녕하세요, 저는 유건우입니다 👋                   ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-### 🎓 명지대학교 컴퓨터공학과 1학년
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyugeonwoo&count_bg=%230D1117&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
-
-</div>
+명지대학교 컴퓨터공학과에서 소프트웨어의 무한한 가능성을 탐구하고 있는 1학년 대학생입니다.  
+효율적인 자동화 시스템과 AI 인프라 구축에 깊은 관심을 가지고 공부하고 있습니다.
 
 ---
 
-## 🙋‍♂️ About Me
-
-```yaml
-name      : 유건우 (Yoo Geonwoo)
-university: 명지대학교 (Myongji University)
-major     : 컴퓨터공학과 (Computer Engineering)
-grade     : 1학년 (Freshman)
-status    : 개발 공부 중 🔥
-```
+### 🚀 About Me
+- 🎓 **Education**: 명지대학교(Myongji University) 컴퓨터공학과 1학년 재학 중
+- 💻 **Main Interest**: UI 자동화, AI 에이전트 및 인프라, 백엔드 최적화
+- 🃏 **Hobbies**: 마술(Magic) - 기술적인 카드 루틴과 스테이지 퍼포먼스를 즐깁니다.
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-> 현재 배우고 있는 기술 스택입니다.
+**Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<div align="center">
+**Automation & AI**
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-blue?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![VectorDB](https://img.shields.io/badge/Vector_Database-orange?style=for-the-badge)
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yugeonwoo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugeonwoo&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
+**Tools & Deployment**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131313?style=for-the-badge&logo=railway&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📁 Projects
-
-> 진행 예정 및 완료된 프로젝트 목록입니다.
-
-| 프로젝트 | 설명 | 기술 스택 | 상태 |
-|:---:|:---|:---:|:---:|
-| 🚧 준비 중 | 첫 번째 프로젝트 진행 예정 | - | `예정` |
+### 📂 Recent Focus
+* **UI Automation**: `PyAutoGUI`를 활용한 반복 작업 및 게임 인터랙션 자동화 스크립트 개발
+* **AI Infrastructure**: LangChain 및 벡터 데이터베이스를 활용한 LLM 기반 서비스 구조 학습
+* **Computer Science Foundations**: C언어와 자료구조 등 전공 기초 역량 강화
 
 ---
 
-## 📫 Contact
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-yugeonwoo-181717?style=flat-square&logo=github)](https://github.com/yugeonwoo)
-[![Email](https://img.shields.io/badge/Email-문의하기-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
+### 📈 GitHub Stats
+![Geonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=본인의GitHubID&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=본인의GitHubID&layout=compact&theme=radical)
 
 ---
 
-<div align="center">
-
-*"배움을 멈추지 않는 개발자가 되겠습니다."* 🌱
-
-</div>
-loading README.md…]()
+### 📫 Contact
+- **Email**: [본인의 이메일 주소 입력]
+- **LinkedIn**: [본인의 링크드인 주소(있다면)]
