@@ -41,13 +41,6 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Aron-GW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aron-GW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aron-GW&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
